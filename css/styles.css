@@ -1,0 +1,39 @@
+body {
+  background-color: #f7e7bd;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: grey;
+  width: 5%;
+}
+/****************************TAG SELECTOR******************************/
+
+img {
+  height: 500px;
+}
+
+h1:hover {
+  color: yellow;
+}
+h2 {
+  color: #a35d6a;
+}
+h3 {
+  color: #a35d6a;
+}
+
+/****************************CLASS SELECTOR******************************/
+.faiz {
+  height: 350px;
+}
+
+.angela {
+  height: 200px;
+}
+
+.h1heading{
+  color: #a35d6a;
+}
